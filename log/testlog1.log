@@ -1,0 +1,1040 @@
+2021-02-04 21:32:48,120 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-04 21:32:52,076 [main] INFO logger_File - Retail page is opened
+2021-02-04 21:32:52,084 [main] INFO logger_File - Page title  is verified
+2021-02-04 21:32:52,646 [main] INFO logger_File - User entered value in search bar
+2021-02-04 21:32:53,486 [main] INFO logger_File - User clicked on search button
+2021-02-04 21:32:53,837 [main] INFO logger_File - iPhone image is displayed
+2021-02-04 21:32:54,448 [main] INFO logger_File - Search functionality Test case   passed
+2021-02-08 18:30:58,936 [main] INFO logger_File - Scenario Login to MyAccount Started 
+2021-02-08 18:31:03,408 [main] INFO logger_File - Retail page is opened
+2021-02-08 18:31:03,415 [main] INFO logger_File - Page title  is verified
+2021-02-08 18:31:03,918 [main] INFO logger_File - User click on My Account
+2021-02-08 18:31:04,168 [main] INFO logger_File - User click on Login
+2021-02-08 18:31:07,537 [main] INFO logger_File - User enter email address
+2021-02-08 18:31:07,588 [main] INFO logger_File - User enter password
+2021-02-08 18:31:08,301 [main] INFO logger_File - User click on Login button
+2021-02-08 18:31:12,221 [main] INFO logger_File - Login to MyAccount   passed
+2021-02-08 18:31:12,226 [main] INFO logger_File - Scenario Test Search functionality with multiple set of Data Started 
+2021-02-08 18:31:15,767 [main] INFO logger_File - Retail page is opened
+2021-02-08 18:31:15,774 [main] INFO logger_File - Page title  is verified
+2021-02-08 18:31:16,320 [main] INFO logger_File - User entered value in search bar
+2021-02-08 18:31:17,137 [main] INFO logger_File - User clicked on search button
+2021-02-08 18:31:17,765 [main] INFO logger_File - Test Search functionality with multiple set of Data   passed
+2021-02-08 18:31:17,767 [main] INFO logger_File - Scenario Test Search functionality with multiple set of Data Started 
+2021-02-08 18:31:20,820 [main] INFO logger_File - Retail page is opened
+2021-02-08 18:31:20,825 [main] INFO logger_File - Page title  is verified
+2021-02-08 18:31:21,396 [main] INFO logger_File - User entered value in search bar
+2021-02-08 18:31:22,242 [main] INFO logger_File - User clicked on search button
+2021-02-08 18:31:22,847 [main] INFO logger_File - Test Search functionality with multiple set of Data   passed
+2021-02-08 18:31:22,850 [main] INFO logger_File - Scenario Test Search functionality with multiple set of Data Started 
+2021-02-08 18:31:25,931 [main] INFO logger_File - Retail page is opened
+2021-02-08 18:31:25,938 [main] INFO logger_File - Page title  is verified
+2021-02-08 18:31:26,430 [main] INFO logger_File - User entered value in search bar
+2021-02-08 18:31:27,271 [main] INFO logger_File - User clicked on search button
+2021-02-08 18:31:27,891 [main] INFO logger_File - Test Search functionality with multiple set of Data   passed
+2021-02-08 19:02:43,241 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-08 19:02:47,319 [main] INFO logger_File - Retail page is opened
+2021-02-08 19:02:47,331 [main] INFO logger_File - Page title  is verified
+2021-02-08 19:02:47,938 [main] INFO logger_File - User entered value in search bar
+2021-02-08 19:02:48,785 [main] INFO logger_File - User clicked on search button
+2021-02-08 19:02:49,181 [main] INFO logger_File - iPhone image is displayed
+2021-02-08 19:02:49,799 [main] INFO logger_File - Search functionality Test case   passed
+2021-02-08 19:02:49,804 [main] INFO logger_File - Scenario Test Search Functionality with multiple set of Data Started 
+2021-02-08 19:02:53,000 [main] INFO logger_File - Retail page is opened
+2021-02-08 19:02:53,006 [main] INFO logger_File - Page title  is verified
+2021-02-08 19:02:53,500 [main] INFO logger_File - User entered value in search bar
+2021-02-08 19:02:54,348 [main] INFO logger_File - User clicked on search button
+2021-02-08 19:02:54,962 [main] INFO logger_File - Test Search Functionality with multiple set of Data   passed
+2021-02-08 19:02:54,964 [main] INFO logger_File - Scenario Test Search Functionality with multiple set of Data Started 
+2021-02-08 19:02:58,162 [main] INFO logger_File - Retail page is opened
+2021-02-08 19:02:58,168 [main] INFO logger_File - Page title  is verified
+2021-02-08 19:02:58,694 [main] INFO logger_File - User entered value in search bar
+2021-02-08 19:02:59,522 [main] INFO logger_File - User clicked on search button
+2021-02-08 19:03:00,147 [main] INFO logger_File - Test Search Functionality with multiple set of Data   passed
+2021-02-08 19:03:00,151 [main] INFO logger_File - Scenario Test Search Functionality with multiple set of Data Started 
+2021-02-08 19:03:03,158 [main] INFO logger_File - Retail page is opened
+2021-02-08 19:03:03,164 [main] INFO logger_File - Page title  is verified
+2021-02-08 19:03:03,640 [main] INFO logger_File - User entered value in search bar
+2021-02-08 19:03:04,458 [main] INFO logger_File - User clicked on search button
+2021-02-08 19:03:05,073 [main] INFO logger_File - Test Search Functionality with multiple set of Data   passed
+2021-02-08 20:17:40,210 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-08 20:17:44,223 [main] INFO logger_File - Retail page is opened
+2021-02-08 20:17:44,543 [main] INFO logger_File - Scenario Test Search Functionality with multiple set of Data Started 
+2021-02-08 20:33:48,860 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-02-08 20:33:52,959 [main] INFO logger_File - Retail page is opened
+2021-02-08 20:33:52,967 [main] INFO logger_File - Page title  is verified
+2021-02-08 20:33:53,523 [main] INFO logger_File - User click on My Account
+2021-02-08 20:33:54,153 [main] INFO logger_File - Register an Account test case   undefined
+2021-02-08 20:43:05,775 [main] INFO logger_File - Scenario Login to MyAccount Started 
+2021-02-08 20:43:09,886 [main] INFO logger_File - Retail page is opened
+2021-02-08 20:43:09,893 [main] INFO logger_File - Page title  is verified
+2021-02-08 21:05:51,135 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-02-08 21:06:01,230 [main] INFO logger_File - Retail page is opened
+2021-02-08 21:06:01,236 [main] INFO logger_File - Page title  is verified
+2021-02-08 21:06:01,712 [main] INFO logger_File - User click on My Account
+2021-02-08 21:06:02,729 [main] INFO logger_File - User clicked on Register option
+2021-02-08 21:06:03,370 [main] INFO logger_File - Register an Account test case   failed
+2021-02-08 21:14:40,579 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-02-08 21:14:44,530 [main] INFO logger_File - Retail page is opened
+2021-02-08 21:14:44,538 [main] INFO logger_File - Page title  is verified
+2021-02-08 21:14:45,124 [main] INFO logger_File - User click on My Account
+2021-02-08 21:14:45,719 [main] INFO logger_File - User clicked on Register option
+2021-02-08 21:14:46,131 [main] INFO logger_File - User filled the information form
+2021-02-08 21:14:46,544 [main] INFO logger_File - User check privacy and policy
+2021-02-08 21:14:47,317 [main] INFO logger_File - User clicked on Continue button
+2021-02-08 21:14:47,659 [main] INFO logger_File - Account was created Successfully
+2021-02-08 21:14:48,296 [main] INFO logger_File - Register an Account test case   passed
+2021-02-09 19:58:10,765 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2021-02-09 19:58:13,443 [main] INFO logger_File - Connection is established between JDBC and DB
+2021-02-09 19:58:13,503 [main] INFO logger_File - select * from public.actor: has been executed
+2021-02-09 19:58:13,505 [main] INFO logger_File - ResultSet is stored in a csv file in outcome folder
+2021-02-09 19:58:13,505 [main] INFO logger_File - DataBase connection has been closed
+2021-02-09 19:58:14,109 [main] INFO logger_File - Execute all information from Actor Table   passed
+2021-02-09 20:03:13,267 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2021-02-09 20:03:15,437 [main] INFO logger_File - Connection is established between JDBC and DB
+2021-02-09 20:03:15,458 [main] INFO logger_File - select * from public.actor: has been executed
+2021-02-09 20:03:15,482 [main] INFO logger_File - ResultSet is stored in a csv file in outcome folder
+2021-02-09 20:03:15,482 [main] INFO logger_File - DataBase connection has been closed
+2021-02-09 20:03:16,118 [main] INFO logger_File - Execute all information from Actor Table   passed
+2021-02-09 20:33:32,925 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2021-02-09 20:33:35,141 [main] INFO logger_File - Connection is established between JDBC and DB
+2021-02-09 20:33:35,156 [main] INFO logger_File - select * from public.actor: has been executed
+2021-02-09 20:33:35,158 [main] INFO logger_File - ResultSet is stored in a csv file in outcome folder
+2021-02-09 20:33:35,159 [main] INFO logger_File - DataBase connection has been closed
+2021-02-09 20:33:35,753 [main] INFO logger_File - Execute all information from Actor Table   passed
+2021-02-09 20:34:32,200 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2021-02-09 20:34:34,366 [main] INFO logger_File - Connection is established between JDBC and DB
+2021-02-09 20:34:34,381 [main] INFO logger_File - select * from public.actor: has been executed
+2021-02-09 20:34:34,402 [main] INFO logger_File - ResultSet is stored in a csv file in outcome folder
+2021-02-09 20:34:34,403 [main] INFO logger_File - DataBase connection has been closed
+2021-02-09 20:34:34,986 [main] INFO logger_File - Execute all information from Actor Table   passed
+2021-02-27 17:05:58,093 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2021-02-27 17:06:02,136 [main] INFO logger_File - Connection is established between JDBC and DB
+2021-02-27 17:06:03,115 [main] INFO logger_File - Execute all information from Actor Table   failed
+2021-02-27 17:13:00,641 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2021-02-27 17:13:04,237 [main] INFO logger_File - Connection is established between JDBC and DB
+2021-02-27 17:13:04,271 [main] INFO logger_File - select * from public.actor: has been executed
+2021-02-27 17:13:04,335 [main] INFO logger_File - ResultSet is stored in a csv file in outcome folder
+2021-02-27 17:13:04,338 [main] INFO logger_File - DataBase connection has been closed
+2021-02-27 17:13:05,381 [main] INFO logger_File - Execute all information from Actor Table   passed
+2021-02-27 17:15:07,733 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2021-02-27 17:15:11,207 [main] INFO logger_File - Connection is established between JDBC and DB
+2021-02-27 17:15:11,239 [main] INFO logger_File - select * from public.actor: has been executed
+2021-02-27 17:15:11,291 [main] INFO logger_File - ResultSet is stored in a csv file in outcome folder
+2021-02-27 17:15:11,292 [main] INFO logger_File - DataBase connection has been closed
+2021-02-27 17:15:12,084 [main] INFO logger_File - Execute all information from Actor Table   passed
+2021-02-27 17:17:28,852 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-02-27 17:17:34,213 [main] INFO logger_File - Retail page is opened
+2021-02-27 17:17:34,239 [main] INFO logger_File - Page title  is verified
+2021-02-27 17:17:34,846 [main] INFO logger_File - User click on My Account
+2021-02-27 17:17:35,888 [main] INFO logger_File - User clicked on Register option
+2021-02-27 17:17:36,753 [main] INFO logger_File - User filled the information form
+2021-02-27 17:17:37,292 [main] INFO logger_File - User check privacy and policy
+2021-02-27 17:17:38,026 [main] INFO logger_File - User clicked on Continue button
+2021-02-27 17:18:54,924 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-02-27 17:19:00,361 [main] INFO logger_File - Retail page is opened
+2021-02-27 17:19:00,388 [main] INFO logger_File - Page title  is verified
+2021-02-27 17:19:01,016 [main] INFO logger_File - User click on My Account
+2021-02-27 17:19:01,781 [main] INFO logger_File - User clicked on Register option
+2021-02-27 17:19:02,585 [main] INFO logger_File - User filled the information form
+2021-02-27 17:19:03,124 [main] INFO logger_File - User check privacy and policy
+2021-02-27 17:19:04,035 [main] INFO logger_File - User clicked on Continue button
+2021-02-27 17:19:04,447 [main] INFO logger_File - Account was created Successfully
+2021-02-27 17:19:05,272 [main] INFO logger_File - Register an Account test case   passed
+2021-02-27 17:21:55,369 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-27 17:22:03,133 [main] INFO logger_File - Retail page is opened
+2021-02-27 17:22:03,179 [main] INFO logger_File - Page title  is verified
+2021-02-27 17:22:04,107 [main] INFO logger_File - User entered value in search bar
+2021-02-27 17:22:05,837 [main] INFO logger_File - User clicked on search button
+2021-02-27 17:22:06,463 [main] INFO logger_File - iPhone image is displayed
+2021-02-27 17:22:07,596 [main] INFO logger_File - Search functionality Test case   passed
+2021-02-27 19:57:52,752 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-02-27 19:57:59,191 [main] INFO logger_File - Retail page is opened
+2021-02-27 19:57:59,271 [main] INFO logger_File - Page title  is verified
+2021-02-27 19:58:00,822 [main] INFO logger_File - User click on My Account
+2021-02-27 19:58:01,804 [main] INFO logger_File - User clicked on Register option
+2021-02-27 19:58:03,597 [main] INFO logger_File - User filled the information form
+2021-02-27 19:58:04,268 [main] INFO logger_File - User check privacy and policy
+2021-02-27 19:58:05,248 [main] INFO logger_File - User clicked on Continue button
+2021-02-27 19:59:26,140 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-02-27 19:59:34,082 [main] INFO logger_File - Retail page is opened
+2021-02-27 19:59:34,105 [main] INFO logger_File - Page title  is verified
+2021-02-27 19:59:35,867 [main] INFO logger_File - User verify all items are present in Desktops tab   passed
+2021-02-27 20:02:01,332 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-02-27 20:02:08,361 [main] INFO logger_File - Retail page is opened
+2021-02-27 20:02:08,452 [main] INFO logger_File - Page title  is verified
+2021-02-27 20:02:11,769 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-02-27 20:05:36,758 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-02-27 20:05:45,586 [main] INFO logger_File - Retail page is opened
+2021-02-27 20:05:45,643 [main] INFO logger_File - Page title  is verified
+2021-02-27 20:05:47,280 [main] INFO logger_File - User clicked on Desktop button
+2021-02-27 20:05:48,030 [main] INFO logger_File - User clicked on Show all Desktop button
+2021-02-27 20:05:49,792 [main] INFO logger_File - All items imagse are displayed
+2021-02-27 20:05:50,885 [main] INFO logger_File - User verify all items are present in Desktops tab   passed
+2021-02-27 20:07:03,888 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-02-27 20:07:10,341 [main] INFO logger_File - Retail page is opened
+2021-02-27 20:07:10,513 [main] INFO logger_File - Page title  is verified
+2021-02-27 20:07:12,074 [main] INFO logger_File - User clicked on Desktop button
+2021-02-27 20:07:13,300 [main] INFO logger_File - User clicked on Show all Desktop button
+2021-02-27 20:07:16,364 [main] INFO logger_File - All items imagse are displayed
+2021-02-27 20:07:18,592 [main] INFO logger_File - User verify all items are present in Desktops tab   passed
+2021-02-27 22:28:06,133 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-02-27 22:28:11,703 [main] INFO logger_File - Retail page is opened
+2021-02-27 22:28:11,739 [main] INFO logger_File - Page title  is verified
+2021-02-27 22:28:12,791 [main] INFO logger_File - User clicked on Desktop button
+2021-02-27 22:28:14,200 [main] INFO logger_File - User clicked on Show all Desktop button
+2021-02-27 22:28:15,230 [main] INFO logger_File - All items imagse are displayed
+2021-02-27 22:28:16,141 [main] INFO logger_File - User verify all items are present in Desktops tab   passed
+2021-02-27 22:28:16,153 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-27 22:28:21,029 [main] INFO logger_File - Retail page is opened
+2021-02-27 22:28:21,044 [main] INFO logger_File - Page title  is verified
+2021-02-27 22:28:22,072 [main] INFO logger_File - Retail page is opened
+2021-02-27 22:28:22,083 [main] INFO logger_File - Page title  is verified
+2021-02-27 22:28:23,358 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   undefined
+2021-02-27 22:33:22,372 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-02-27 22:33:28,517 [main] INFO logger_File - Retail page is opened
+2021-02-27 22:33:28,558 [main] INFO logger_File - Page title  is verified
+2021-02-27 22:33:29,326 [main] INFO logger_File - User clicked on Desktop button
+2021-02-27 22:33:30,253 [main] INFO logger_File - User clicked on Show all Desktop button
+2021-02-27 22:33:31,613 [main] INFO logger_File - All items imagse are displayed
+2021-02-27 22:33:32,774 [main] INFO logger_File - User verify all items are present in Desktops tab   passed
+2021-02-27 22:33:32,781 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-27 22:33:37,304 [main] INFO logger_File - Retail page is opened
+2021-02-27 22:33:37,485 [main] INFO logger_File - Page title  is verified
+2021-02-27 22:33:38,605 [main] INFO logger_File - Retail page is opened
+2021-02-27 22:33:38,617 [main] INFO logger_File - Page title  is verified
+2021-02-27 22:33:39,371 [main] INFO logger_File - User clicked on Desktop button
+2021-02-27 22:33:40,383 [main] INFO logger_File - User clicked on Show all Desktop button
+2021-02-27 22:33:42,730 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-02-27 22:39:05,483 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-02-27 22:39:11,338 [main] INFO logger_File - Retail page is opened
+2021-02-27 22:39:11,354 [main] INFO logger_File - Page title  is verified
+2021-02-27 22:39:12,456 [main] INFO logger_File - User clicked on Desktop button
+2021-02-27 22:39:13,178 [main] INFO logger_File - User clicked on Show all Desktop button
+2021-02-27 22:39:14,407 [main] INFO logger_File - All items imagse are displayed
+2021-02-27 22:39:15,722 [main] INFO logger_File - User verify all items are present in Desktops tab   passed
+2021-02-27 22:39:15,732 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-27 22:39:19,659 [main] INFO logger_File - Retail page is opened
+2021-02-27 22:39:19,701 [main] INFO logger_File - Page title  is verified
+2021-02-27 22:39:21,247 [main] INFO logger_File - Retail page is opened
+2021-02-27 22:39:21,260 [main] INFO logger_File - Page title  is verified
+2021-02-27 22:39:21,894 [main] INFO logger_File - User clicked on Desktop button
+2021-02-27 22:39:22,628 [main] INFO logger_File - User clicked on Show all Desktop button
+2021-02-27 22:39:23,899 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-02-27 22:42:11,570 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-02-27 22:42:16,851 [main] INFO logger_File - Retail page is opened
+2021-02-27 22:42:16,867 [main] INFO logger_File - Page title  is verified
+2021-02-27 22:42:18,073 [main] INFO logger_File - User clicked on Desktop button
+2021-02-27 22:42:18,805 [main] INFO logger_File - User clicked on Show all Desktop button
+2021-02-27 22:42:20,023 [main] INFO logger_File - All items imagse are displayed
+2021-02-27 22:42:20,982 [main] INFO logger_File - User verify all items are present in Desktops tab   passed
+2021-02-27 22:42:20,992 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-27 22:42:25,130 [main] INFO logger_File - Retail page is opened
+2021-02-27 22:42:25,172 [main] INFO logger_File - Page title  is verified
+2021-02-27 22:42:26,431 [main] INFO logger_File - Retail page is opened
+2021-02-27 22:42:26,440 [main] INFO logger_File - Page title  is verified
+2021-02-27 22:42:27,060 [main] INFO logger_File - User clicked on Desktop button
+2021-02-27 22:42:27,996 [main] INFO logger_File - User clicked on Show all Desktop button
+2021-02-27 22:42:28,963 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-02-27 22:43:57,131 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-02-27 22:44:03,340 [main] INFO logger_File - Retail page is opened
+2021-02-27 22:44:03,355 [main] INFO logger_File - Page title  is verified
+2021-02-27 22:44:04,609 [main] INFO logger_File - User clicked on Desktop button
+2021-02-27 22:44:05,241 [main] INFO logger_File - User clicked on Show all Desktop button
+2021-02-27 22:44:06,360 [main] INFO logger_File - All items imagse are displayed
+2021-02-27 22:44:07,127 [main] INFO logger_File - User verify all items are present in Desktops tab   passed
+2021-02-27 22:44:07,136 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-27 22:44:11,034 [main] INFO logger_File - Retail page is opened
+2021-02-27 22:44:11,075 [main] INFO logger_File - Page title  is verified
+2021-02-27 22:44:12,309 [main] INFO logger_File - Retail page is opened
+2021-02-27 22:44:12,320 [main] INFO logger_File - Page title  is verified
+2021-02-27 22:44:12,902 [main] INFO logger_File - User clicked on Desktop button
+2021-02-27 22:44:13,704 [main] INFO logger_File - User clicked on Show all Desktop button
+2021-02-27 22:44:13,822 [main] INFO logger_File - user click ADD TO CARToption on ‘HP LP3065’item
+2021-02-27 22:44:16,624 [main] INFO logger_File - User select quantity 1
+2021-02-27 22:44:16,719 [main] INFO logger_File - User click add to Cart button
+2021-02-27 22:44:17,496 [main] INFO logger_File - HP LP 3065 was added to Cart
+2021-02-27 22:44:22,165 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   passed
+2021-02-27 23:44:02,013 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-02-27 23:44:08,164 [main] INFO logger_File - Retail page is opened
+2021-02-27 23:44:08,196 [main] INFO logger_File - Page title  is verified
+2021-02-27 23:44:09,783 [main] INFO logger_File - User clicked on Desktop button
+2021-02-27 23:44:10,553 [main] INFO logger_File - User clicked on Show all Desktop button
+2021-02-27 23:44:15,567 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-02-27 23:44:19,056 [main] INFO logger_File - Retail page is opened
+2021-02-27 23:45:08,486 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-02-27 23:45:14,881 [main] INFO logger_File - Retail page is opened
+2021-02-27 23:45:14,934 [main] INFO logger_File - Page title  is verified
+2021-02-27 23:45:16,401 [main] INFO logger_File - User clicked on Desktop button
+2021-02-27 23:45:17,612 [main] INFO logger_File - User clicked on Show all Desktop button
+2021-02-27 23:45:19,327 [main] INFO logger_File - All items imagse are displayed
+2021-02-27 23:45:20,319 [main] INFO logger_File - User verify all items are present in Desktops tab   passed
+2021-02-27 23:45:20,343 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-27 23:45:24,641 [main] INFO logger_File - Retail page is opened
+2021-02-27 23:45:24,663 [main] INFO logger_File - Page title  is verified
+2021-02-27 23:45:26,662 [main] INFO logger_File - Retail page is opened
+2021-02-27 23:45:26,677 [main] INFO logger_File - Page title  is verified
+2021-02-27 23:45:27,536 [main] INFO logger_File - User clicked on Desktop button
+2021-02-27 23:45:28,421 [main] INFO logger_File - User clicked on Show all Desktop button
+2021-02-27 23:45:28,781 [main] INFO logger_File - user click ADD TO CARToption on ‘HP LP3065’item
+2021-02-27 23:45:31,057 [main] INFO logger_File - User select quantity 1
+2021-02-27 23:45:32,214 [main] INFO logger_File - User click add to Cart button
+2021-02-27 23:45:32,944 [main] INFO logger_File - HP LP 3065 was added to Cart
+2021-02-27 23:45:34,110 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   passed
+2021-02-27 23:45:34,122 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-02-27 23:45:39,014 [main] INFO logger_File - Retail page is opened
+2021-02-27 23:45:39,070 [main] INFO logger_File - Page title  is verified
+2021-02-27 23:45:40,550 [main] INFO logger_File - Retail page is opened
+2021-02-27 23:45:40,569 [main] INFO logger_File - Page title  is verified
+2021-02-27 23:45:41,371 [main] INFO logger_File - User clicked on Desktop button
+2021-02-27 23:45:42,218 [main] INFO logger_File - User clicked on Show all Desktop button
+2021-02-27 23:45:42,509 [main] INFO logger_File - User click ADD TO CART option on ‘Canon EOS 5D’ item
+2021-02-27 23:45:45,651 [main] INFO logger_File - User select color from dropdown ‘Red’
+2021-02-27 23:45:45,949 [main] INFO logger_File - User select quantity 1
+2021-02-27 23:45:46,174 [main] INFO logger_File - User click add to Cart button
+2021-02-27 23:45:47,049 [main] INFO logger_File - User should see a message 'Success: You have added Canon EOS 5D to your shopping cart!'
+2021-02-27 23:45:48,669 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   passed
+2021-02-28 00:07:13,653 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-02-28 00:07:20,587 [main] INFO logger_File - Retail page is opened
+2021-02-28 00:07:20,622 [main] INFO logger_File - Page title  is verified
+2021-02-28 00:07:21,987 [main] INFO logger_File - User clicked on Desktop button
+2021-02-28 00:07:22,797 [main] INFO logger_File - User clicked on Show all Desktop button
+2021-02-28 00:07:23,997 [main] INFO logger_File - All items imagse are displayed
+2021-02-28 00:07:25,345 [main] INFO logger_File - User verify all items are present in Desktops tab   passed
+2021-02-28 00:07:25,364 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-28 00:07:30,337 [main] INFO logger_File - Retail page is opened
+2021-02-28 00:07:30,359 [main] INFO logger_File - Page title  is verified
+2021-02-28 00:07:31,935 [main] INFO logger_File - Retail page is opened
+2021-02-28 00:07:31,959 [main] INFO logger_File - Page title  is verified
+2021-02-28 00:07:32,683 [main] INFO logger_File - User clicked on Desktop button
+2021-02-28 00:07:33,569 [main] INFO logger_File - User clicked on Show all Desktop button
+2021-02-28 00:07:33,813 [main] INFO logger_File - user click ADD TO CARToption on ‘HP LP3065’item
+2021-02-28 00:07:37,053 [main] INFO logger_File - User select quantity 1
+2021-02-28 00:07:37,230 [main] INFO logger_File - User click add to Cart button
+2021-02-28 00:07:38,116 [main] INFO logger_File - HP LP 3065 was added to Cart
+2021-02-28 00:07:43,235 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   passed
+2021-02-28 00:07:43,240 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-02-28 00:07:47,833 [main] INFO logger_File - Retail page is opened
+2021-02-28 00:07:47,869 [main] INFO logger_File - Page title  is verified
+2021-02-28 00:07:49,621 [main] INFO logger_File - Retail page is opened
+2021-02-28 00:07:49,639 [main] INFO logger_File - Page title  is verified
+2021-02-28 00:07:50,257 [main] INFO logger_File - User clicked on Desktop button
+2021-02-28 00:07:51,165 [main] INFO logger_File - User clicked on Show all Desktop button
+2021-02-28 00:07:51,430 [main] INFO logger_File - User click ADD TO CART option on ‘Canon EOS 5D’ item
+2021-02-28 00:07:53,938 [main] INFO logger_File - User select color from dropdown ‘Red’
+2021-02-28 00:07:54,710 [main] INFO logger_File - User select quantity 1
+2021-02-28 00:07:54,911 [main] INFO logger_File - User click add to Cart button
+2021-02-28 00:07:55,729 [main] INFO logger_File - User should see a message 'Success: You have added Canon EOS 5D to your shopping cart!'
+2021-02-28 00:07:58,017 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   passed
+2021-02-28 00:18:27,236 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-02-28 00:18:34,193 [main] INFO logger_File - Retail page is opened
+2021-02-28 00:18:34,208 [main] INFO logger_File - Page title  is verified
+2021-02-28 00:18:35,629 [main] INFO logger_File - User clicked on Desktop button
+2021-02-28 00:18:36,397 [main] INFO logger_File - User clicked on Show all Desktop button
+2021-02-28 00:18:38,218 [main] INFO logger_File - All items imagse are displayed
+2021-02-28 00:18:39,454 [main] INFO logger_File - User verify all items are present in Desktops tab   passed
+2021-02-28 00:18:39,468 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-28 00:18:44,248 [main] INFO logger_File - Retail page is opened
+2021-02-28 00:18:44,268 [main] INFO logger_File - Page title  is verified
+2021-02-28 00:18:45,932 [main] INFO logger_File - Retail page is opened
+2021-02-28 00:18:45,946 [main] INFO logger_File - Page title  is verified
+2021-02-28 00:18:46,786 [main] INFO logger_File - User clicked on Desktop button
+2021-02-28 00:18:47,598 [main] INFO logger_File - User clicked on Show all Desktop button
+2021-02-28 00:18:47,853 [main] INFO logger_File - user click ADD TO CARToption on ‘HP LP3065’item
+2021-02-28 00:18:50,492 [main] INFO logger_File - User select quantity 1
+2021-02-28 00:18:50,658 [main] INFO logger_File - User click add to Cart button
+2021-02-28 00:18:51,486 [main] INFO logger_File - HP LP 3065 was added to Cart
+2021-02-28 00:18:52,568 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   passed
+2021-02-28 00:18:52,576 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-02-28 00:18:57,081 [main] INFO logger_File - Retail page is opened
+2021-02-28 00:18:57,101 [main] INFO logger_File - Page title  is verified
+2021-02-28 00:18:58,930 [main] INFO logger_File - Retail page is opened
+2021-02-28 00:18:58,938 [main] INFO logger_File - Page title  is verified
+2021-02-28 00:18:59,677 [main] INFO logger_File - User clicked on Desktop button
+2021-02-28 00:19:00,689 [main] INFO logger_File - User clicked on Show all Desktop button
+2021-02-28 00:19:00,921 [main] INFO logger_File - User click ADD TO CART option on ‘Canon EOS 5D’ item
+2021-02-28 00:19:03,234 [main] INFO logger_File - User select color from dropdown ‘Red’
+2021-02-28 00:19:03,714 [main] INFO logger_File - User select quantity 1
+2021-02-28 00:19:03,916 [main] INFO logger_File - User click add to Cart button
+2021-02-28 00:19:04,887 [main] INFO logger_File - User should see a message 'Success: You have added Canon EOS 5D to your shopping cart!'
+2021-02-28 00:19:07,756 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   passed
+2021-02-28 01:18:16,317 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-02-28 01:18:22,868 [main] INFO logger_File - Retail page is opened
+2021-02-28 01:18:22,898 [main] INFO logger_File - Page title  is verified
+2021-02-28 01:18:24,519 [main] INFO logger_File - User clicked on Desktop button
+2021-02-28 01:18:25,506 [main] INFO logger_File - User clicked on Show all Desktop button
+2021-02-28 01:18:27,059 [main] INFO logger_File - All items imagse are displayed
+2021-02-28 01:18:28,108 [main] INFO logger_File - User verify all items are present in Desktops tab   passed
+2021-02-28 01:18:28,119 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-28 01:18:32,839 [main] INFO logger_File - Retail page is opened
+2021-02-28 01:18:32,857 [main] INFO logger_File - Page title  is verified
+2021-02-28 01:18:34,600 [main] INFO logger_File - Retail page is opened
+2021-02-28 01:18:34,616 [main] INFO logger_File - Page title  is verified
+2021-02-28 01:18:35,479 [main] INFO logger_File - User clicked on Desktop button
+2021-02-28 01:18:36,318 [main] INFO logger_File - User clicked on Show all Desktop button
+2021-02-28 01:18:36,518 [main] INFO logger_File - user click ADD TO CARToption on ‘HP LP3065’item
+2021-02-28 01:18:43,751 [main] INFO logger_File - User select quantity 1
+2021-02-28 01:18:43,915 [main] INFO logger_File - User click add to Cart button
+2021-02-28 01:18:44,968 [main] INFO logger_File - HP LP 3065 was added to Cart
+2021-02-28 01:18:46,235 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   passed
+2021-02-28 01:18:46,238 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-02-28 01:18:50,749 [main] INFO logger_File - Retail page is opened
+2021-02-28 01:18:50,767 [main] INFO logger_File - Page title  is verified
+2021-02-28 01:18:52,788 [main] INFO logger_File - Retail page is opened
+2021-02-28 01:18:52,796 [main] INFO logger_File - Page title  is verified
+2021-02-28 01:18:53,596 [main] INFO logger_File - User clicked on Desktop button
+2021-02-28 01:18:54,439 [main] INFO logger_File - User clicked on Show all Desktop button
+2021-02-28 01:18:54,800 [main] INFO logger_File - User click ADD TO CART option on ‘Canon EOS 5D’ item
+2021-02-28 01:18:56,887 [main] INFO logger_File - User select color from dropdown ‘Red’
+2021-02-28 01:18:57,716 [main] INFO logger_File - User select quantity 1
+2021-02-28 01:18:57,878 [main] INFO logger_File - User click add to Cart button
+2021-02-28 01:18:58,696 [main] INFO logger_File - User should see a message 'Success: You have added Canon EOS 5D to your shopping cart!'
+2021-02-28 01:18:59,835 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   passed
+2021-02-28 01:18:59,849 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started 
+2021-02-28 01:19:04,414 [main] INFO logger_File - Retail page is opened
+2021-02-28 01:19:04,438 [main] INFO logger_File - Page title  is verified
+2021-02-28 01:19:06,174 [main] INFO logger_File - Retail page is opened
+2021-02-28 01:19:06,189 [main] INFO logger_File - Page title  is verified
+2021-02-28 01:19:06,850 [main] INFO logger_File - User clicked on Desktop button
+2021-02-28 01:19:07,814 [main] INFO logger_File - User clicked on Show all Desktop button
+2021-02-28 01:19:10,542 [main] INFO logger_File - User click on Canon EOS 5D item
+2021-02-28 01:19:10,771 [main] INFO logger_File - User click on write a review link
+2021-02-28 01:19:11,682 [main] INFO logger_File - User fill the review information with below information
+2021-02-28 01:19:12,381 [main] INFO logger_File - User click on Continue Button
+2021-02-28 01:19:58,544 [main] INFO logger_File - User add a review to Canon EOS 5D item in Desktops tab   failed
+2021-02-28 01:22:48,916 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-02-28 01:22:55,169 [main] INFO logger_File - Retail page is opened
+2021-02-28 01:22:55,220 [main] INFO logger_File - Page title  is verified
+2021-02-28 01:22:56,837 [main] INFO logger_File - User clicked on Desktop button
+2021-02-28 01:22:58,198 [main] INFO logger_File - User clicked on Show all Desktop button
+2021-02-28 01:23:00,012 [main] INFO logger_File - All items imagse are displayed
+2021-02-28 01:23:01,356 [main] INFO logger_File - User verify all items are present in Desktops tab   passed
+2021-02-28 01:23:01,370 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-28 01:23:05,879 [main] INFO logger_File - Retail page is opened
+2021-02-28 01:23:05,896 [main] INFO logger_File - Page title  is verified
+2021-02-28 01:23:07,719 [main] INFO logger_File - Retail page is opened
+2021-02-28 01:23:07,727 [main] INFO logger_File - Page title  is verified
+2021-02-28 01:23:08,498 [main] INFO logger_File - User clicked on Desktop button
+2021-02-28 01:23:09,329 [main] INFO logger_File - User clicked on Show all Desktop button
+2021-02-28 01:23:09,612 [main] INFO logger_File - user click ADD TO CARToption on ‘HP LP3065’item
+2021-02-28 01:23:12,572 [main] INFO logger_File - User select quantity 1
+2021-02-28 01:23:12,807 [main] INFO logger_File - User click add to Cart button
+2021-02-28 01:23:13,608 [main] INFO logger_File - HP LP 3065 was added to Cart
+2021-02-28 01:23:14,686 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   passed
+2021-02-28 01:23:14,690 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-02-28 01:23:19,431 [main] INFO logger_File - Retail page is opened
+2021-02-28 01:23:19,447 [main] INFO logger_File - Page title  is verified
+2021-02-28 01:23:21,010 [main] INFO logger_File - Retail page is opened
+2021-02-28 01:23:21,022 [main] INFO logger_File - Page title  is verified
+2021-02-28 01:23:21,673 [main] INFO logger_File - User clicked on Desktop button
+2021-02-28 01:23:22,553 [main] INFO logger_File - User clicked on Show all Desktop button
+2021-02-28 01:23:22,837 [main] INFO logger_File - User click ADD TO CART option on ‘Canon EOS 5D’ item
+2021-02-28 01:23:25,282 [main] INFO logger_File - User select color from dropdown ‘Red’
+2021-02-28 01:23:25,998 [main] INFO logger_File - User select quantity 1
+2021-02-28 01:23:26,270 [main] INFO logger_File - User click add to Cart button
+2021-02-28 01:23:27,079 [main] INFO logger_File - User should see a message 'Success: You have added Canon EOS 5D to your shopping cart!'
+2021-02-28 01:23:28,256 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   passed
+2021-02-28 01:23:28,269 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started 
+2021-02-28 01:23:33,050 [main] INFO logger_File - Retail page is opened
+2021-02-28 01:23:33,062 [main] INFO logger_File - Page title  is verified
+2021-02-28 01:23:34,516 [main] INFO logger_File - Retail page is opened
+2021-02-28 01:23:34,533 [main] INFO logger_File - Page title  is verified
+2021-02-28 01:23:35,198 [main] INFO logger_File - User clicked on Desktop button
+2021-02-28 01:23:36,312 [main] INFO logger_File - User clicked on Show all Desktop button
+2021-02-28 01:23:39,007 [main] INFO logger_File - User click on Canon EOS 5D item
+2021-02-28 01:23:39,137 [main] INFO logger_File - User click on write a review link
+2021-02-28 01:23:39,905 [main] INFO logger_File - User fill the review information with below information
+2021-02-28 01:23:40,731 [main] INFO logger_File - User click on Continue Button
+2021-02-28 01:23:41,248 [main] INFO logger_File - User should see a message with ‘Thank you for your review. It has been submitted to the webmaster for approval'
+2021-02-28 01:23:42,736 [main] INFO logger_File - User add a review to Canon EOS 5D item in Desktops tab   passed
+2021-03-06 17:47:53,221 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-06 17:49:48,458 [main] INFO logger_File - Retail page is opened
+2021-03-06 17:49:48,486 [main] INFO logger_File - Page title  is verified
+2021-03-06 17:49:49,935 [main] INFO logger_File - Retail page is opened
+2021-03-06 17:49:49,947 [main] INFO logger_File - Page title  is verified
+2021-03-06 17:49:50,642 [main] INFO logger_File - User clicked on Laptop NoteBook tab
+2021-03-06 17:49:51,253 [main] INFO logger_File - ser clicked on Show all Laptop & NoteBook option
+2021-03-06 17:49:53,012 [main] INFO logger_File - User clicked on MacBook item
+2021-03-06 17:49:53,779 [main] INFO logger_File - User click add to Cart button
+2021-03-06 17:49:54,460 [main] INFO logger_File - User should see a message ‘Success: You have added MacBook to your shopping cart!’
+2021-03-06 17:49:55,808 [main] INFO logger_File - Add and Remove a Mac book from Cart   undefined
+2021-03-06 18:11:29,488 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-06 18:11:37,981 [main] INFO logger_File - Retail page is opened
+2021-03-06 18:11:38,268 [main] INFO logger_File - Page title  is verified
+2021-03-06 18:11:39,721 [main] INFO logger_File - Retail page is opened
+2021-03-06 18:11:39,769 [main] INFO logger_File - Page title  is verified
+2021-03-06 18:11:40,721 [main] INFO logger_File - User clicked on Laptop NoteBook tab
+2021-03-06 18:11:41,872 [main] INFO logger_File - ser clicked on Show all Laptop & NoteBook option
+2021-03-06 18:11:44,755 [main] INFO logger_File - User clicked on MacBook item
+2021-03-06 18:11:45,477 [main] INFO logger_File - User click add to Cart button
+2021-03-06 18:11:46,312 [main] INFO logger_File - User should see a message ‘Success: You have added MacBook to your shopping cart!’
+2021-03-06 18:11:47,355 [main] INFO logger_File - Add and Remove a Mac book from Cart   undefined
+2021-03-06 18:13:35,910 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-06 18:13:44,907 [main] INFO logger_File - Retail page is opened
+2021-03-06 18:13:45,015 [main] INFO logger_File - Page title  is verified
+2021-03-06 18:13:47,038 [main] INFO logger_File - Retail page is opened
+2021-03-06 18:13:47,053 [main] INFO logger_File - Page title  is verified
+2021-03-06 18:13:48,247 [main] INFO logger_File - User clicked on Laptop NoteBook tab
+2021-03-06 18:13:49,110 [main] INFO logger_File - ser clicked on Show all Laptop & NoteBook option
+2021-03-06 18:13:51,127 [main] INFO logger_File - User clicked on MacBook item
+2021-03-06 18:13:52,122 [main] INFO logger_File - User click add to Cart button
+2021-03-06 18:13:52,958 [main] INFO logger_File - User should see a message ‘Success: You have added MacBook to your shopping cart!’
+2021-03-06 18:13:53,570 [main] INFO logger_File - User click on cart option
+2021-03-06 18:13:53,885 [main] INFO logger_File - User click on red X button to remove the item from cart
+2021-03-06 18:13:54,912 [main] INFO logger_File - item should be removed and cart should show '0 item'
+2021-03-06 18:13:55,982 [main] INFO logger_File - Add and Remove a Mac book from Cart   passed
+2021-03-06 18:20:26,501 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-06 18:20:32,757 [main] INFO logger_File - Retail page is opened
+2021-03-06 18:20:32,777 [main] INFO logger_File - Page title  is verified
+2021-03-06 18:20:34,450 [main] INFO logger_File - Retail page is opened
+2021-03-06 18:20:34,473 [main] INFO logger_File - Page title  is verified
+2021-03-06 18:20:35,323 [main] INFO logger_File - User clicked on Laptop NoteBook tab
+2021-03-06 18:20:36,010 [main] INFO logger_File - ser clicked on Show all Laptop & NoteBook option
+2021-03-06 18:20:38,041 [main] INFO logger_File - User clicked on MacBook item
+2021-03-06 18:20:38,703 [main] INFO logger_File - User click add to Cart button
+2021-03-06 18:20:39,490 [main] INFO logger_File - User should see a message ‘Success: You have added MacBook to your shopping cart!’
+2021-03-06 18:20:44,744 [main] INFO logger_File - Add and Remove a Mac book from Cart   undefined
+2021-03-06 18:29:40,010 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-06 18:29:47,062 [main] INFO logger_File - Retail page is opened
+2021-03-06 18:29:47,090 [main] INFO logger_File - Page title  is verified
+2021-03-06 18:29:48,744 [main] INFO logger_File - Retail page is opened
+2021-03-06 18:29:48,769 [main] INFO logger_File - Page title  is verified
+2021-03-06 18:29:49,584 [main] INFO logger_File - User clicked on Laptop NoteBook tab
+2021-03-06 18:29:50,297 [main] INFO logger_File - ser clicked on Show all Laptop & NoteBook option
+2021-03-06 18:29:52,506 [main] INFO logger_File - User clicked on MacBook item
+2021-03-06 18:29:53,060 [main] INFO logger_File - User click add to Cart button
+2021-03-06 18:29:53,777 [main] INFO logger_File - User should see a message ‘Success: You have added MacBook to your shopping cart!’
+2021-03-06 18:29:53,847 [main] INFO logger_File - User should see ‘1 item(s)-602.00’ showed to the cart
+2021-03-06 18:29:54,460 [main] INFO logger_File - User click on cart option
+2021-03-06 18:29:54,729 [main] INFO logger_File - User click on red X button to remove the item from cart
+2021-03-06 18:29:55,647 [main] INFO logger_File - item should be removed and cart should show '0 item'
+2021-03-06 18:29:56,989 [main] INFO logger_File - Add and Remove a Mac book from Cart   passed
+2021-03-06 18:54:28,968 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-06 18:54:37,760 [main] INFO logger_File - Retail page is opened
+2021-03-06 18:54:37,801 [main] INFO logger_File - Page title  is verified
+2021-03-06 18:54:39,873 [main] INFO logger_File - Retail page is opened
+2021-03-06 18:54:39,892 [main] INFO logger_File - Page title  is verified
+2021-03-06 18:54:40,758 [main] INFO logger_File - User clicked on Laptop NoteBook tab
+2021-03-06 18:54:41,722 [main] INFO logger_File - ser clicked on Show all Laptop & NoteBook option
+2021-03-06 18:54:44,440 [main] INFO logger_File - User clicked on MacBook item
+2021-03-06 18:54:45,084 [main] INFO logger_File - User click add to Cart button
+2021-03-06 18:54:45,960 [main] INFO logger_File - User should see a message ‘Success: You have added MacBook to your shopping cart!’
+2021-03-06 18:54:46,033 [main] INFO logger_File - User should see ‘1 item(s)-602.00’ showed to the cart
+2021-03-06 18:54:46,531 [main] INFO logger_File - User click on cart option
+2021-03-06 18:54:46,692 [main] INFO logger_File - User click on red X button to remove the item from cart
+2021-03-06 18:54:47,817 [main] INFO logger_File - item should be removed and cart should show '0 item'
+2021-03-06 18:54:49,506 [main] INFO logger_File - Add and Remove a Mac book from Cart   passed
+2021-03-06 18:54:49,518 [main] INFO logger_File - Scenario Product Comparison Started 
+2021-03-06 18:54:54,243 [main] INFO logger_File - Retail page is opened
+2021-03-06 18:54:54,263 [main] INFO logger_File - Page title  is verified
+2021-03-06 18:54:56,057 [main] INFO logger_File - Retail page is opened
+2021-03-06 18:54:56,074 [main] INFO logger_File - Page title  is verified
+2021-03-06 18:54:56,713 [main] INFO logger_File - User clicked on Laptop NoteBook tab
+2021-03-06 18:54:57,618 [main] INFO logger_File - ser clicked on Show all Laptop & NoteBook option
+2021-03-06 18:54:57,850 [main] INFO logger_File - User click on product comparison icon on 'Macbook'
+2021-03-06 18:55:00,790 [main] INFO logger_File - Product Comparison   failed
+2021-03-06 19:02:53,382 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-06 19:02:59,879 [main] INFO logger_File - Retail page is opened
+2021-03-06 19:02:59,941 [main] INFO logger_File - Page title  is verified
+2021-03-06 19:03:01,800 [main] INFO logger_File - Retail page is opened
+2021-03-06 19:03:01,819 [main] INFO logger_File - Page title  is verified
+2021-03-06 19:03:02,662 [main] INFO logger_File - User clicked on Laptop NoteBook tab
+2021-03-06 19:03:03,549 [main] INFO logger_File - ser clicked on Show all Laptop & NoteBook option
+2021-03-06 19:03:06,262 [main] INFO logger_File - User clicked on MacBook item
+2021-03-06 19:03:06,715 [main] INFO logger_File - User click add to Cart button
+2021-03-06 19:03:07,525 [main] INFO logger_File - User should see a message ‘Success: You have added MacBook to your shopping cart!’
+2021-03-06 19:03:07,613 [main] INFO logger_File - User should see ‘1 item(s)-602.00’ showed to the cart
+2021-03-06 19:03:08,122 [main] INFO logger_File - User click on cart option
+2021-03-06 19:03:08,248 [main] INFO logger_File - User click on red X button to remove the item from cart
+2021-03-06 19:03:09,095 [main] INFO logger_File - item should be removed and cart should show '0 item'
+2021-03-06 19:03:10,429 [main] INFO logger_File - Add and Remove a Mac book from Cart   passed
+2021-03-06 19:03:10,447 [main] INFO logger_File - Scenario Product Comparison Started 
+2021-03-06 19:03:15,527 [main] INFO logger_File - Retail page is opened
+2021-03-06 19:03:15,545 [main] INFO logger_File - Page title  is verified
+2021-03-06 19:03:17,516 [main] INFO logger_File - Retail page is opened
+2021-03-06 19:03:17,530 [main] INFO logger_File - Page title  is verified
+2021-03-06 19:03:18,445 [main] INFO logger_File - User clicked on Laptop NoteBook tab
+2021-03-06 19:03:19,479 [main] INFO logger_File - ser clicked on Show all Laptop & NoteBook option
+2021-03-06 19:03:21,291 [main] INFO logger_File - Product Comparison   failed
+2021-03-06 19:07:56,451 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-06 19:08:04,254 [main] INFO logger_File - Retail page is opened
+2021-03-06 19:08:04,316 [main] INFO logger_File - Page title  is verified
+2021-03-06 19:08:05,722 [main] INFO logger_File - Retail page is opened
+2021-03-06 19:08:05,739 [main] INFO logger_File - Page title  is verified
+2021-03-06 19:08:06,511 [main] INFO logger_File - User clicked on Laptop NoteBook tab
+2021-03-06 19:08:07,107 [main] INFO logger_File - ser clicked on Show all Laptop & NoteBook option
+2021-03-06 19:08:09,084 [main] INFO logger_File - User clicked on MacBook item
+2021-03-06 19:08:09,958 [main] INFO logger_File - User click add to Cart button
+2021-03-06 19:08:10,542 [main] INFO logger_File - User should see a message ‘Success: You have added MacBook to your shopping cart!’
+2021-03-06 19:08:10,606 [main] INFO logger_File - User should see ‘1 item(s)-602.00’ showed to the cart
+2021-03-06 19:08:11,176 [main] INFO logger_File - User click on cart option
+2021-03-06 19:08:11,340 [main] INFO logger_File - User click on red X button to remove the item from cart
+2021-03-06 19:08:12,172 [main] INFO logger_File - item should be removed and cart should show '0 item'
+2021-03-06 19:08:13,656 [main] INFO logger_File - Add and Remove a Mac book from Cart   passed
+2021-03-06 19:08:13,670 [main] INFO logger_File - Scenario Product Comparison Started 
+2021-03-06 19:08:18,196 [main] INFO logger_File - Retail page is opened
+2021-03-06 19:08:18,287 [main] INFO logger_File - Page title  is verified
+2021-03-06 19:08:20,175 [main] INFO logger_File - Retail page is opened
+2021-03-06 19:08:20,191 [main] INFO logger_File - Page title  is verified
+2021-03-06 19:08:20,845 [main] INFO logger_File - User clicked on Laptop NoteBook tab
+2021-03-06 19:08:21,515 [main] INFO logger_File - ser clicked on Show all Laptop & NoteBook option
+2021-03-06 19:08:21,697 [main] INFO logger_File - User click on product comparison icon on 'Macbook'
+2021-03-06 19:08:24,299 [main] INFO logger_File - Product Comparison   failed
+2021-03-06 19:11:48,364 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-06 19:11:54,952 [main] INFO logger_File - Retail page is opened
+2021-03-06 19:11:54,977 [main] INFO logger_File - Page title  is verified
+2021-03-06 19:11:56,603 [main] INFO logger_File - Retail page is opened
+2021-03-06 19:11:56,617 [main] INFO logger_File - Page title  is verified
+2021-03-06 19:11:57,297 [main] INFO logger_File - User clicked on Laptop NoteBook tab
+2021-03-06 19:11:57,876 [main] INFO logger_File - ser clicked on Show all Laptop & NoteBook option
+2021-03-06 19:12:00,475 [main] INFO logger_File - User clicked on MacBook item
+2021-03-06 19:12:00,632 [main] INFO logger_File - User click add to Cart button
+2021-03-06 19:12:02,387 [main] INFO logger_File - User should see a message ‘Success: You have added MacBook to your shopping cart!’
+2021-03-06 19:12:02,525 [main] INFO logger_File - User should see ‘1 item(s)-602.00’ showed to the cart
+2021-03-06 19:12:03,177 [main] INFO logger_File - User click on cart option
+2021-03-06 19:12:03,497 [main] INFO logger_File - User click on red X button to remove the item from cart
+2021-03-06 19:12:04,373 [main] INFO logger_File - item should be removed and cart should show '0 item'
+2021-03-06 19:12:05,642 [main] INFO logger_File - Add and Remove a Mac book from Cart   passed
+2021-03-06 19:12:05,654 [main] INFO logger_File - Scenario Product Comparison Started 
+2021-03-06 19:12:10,142 [main] INFO logger_File - Retail page is opened
+2021-03-06 19:12:10,182 [main] INFO logger_File - Page title  is verified
+2021-03-06 19:12:12,009 [main] INFO logger_File - Retail page is opened
+2021-03-06 19:12:12,021 [main] INFO logger_File - Page title  is verified
+2021-03-06 19:12:12,723 [main] INFO logger_File - User clicked on Laptop NoteBook tab
+2021-03-06 19:12:13,457 [main] INFO logger_File - ser clicked on Show all Laptop & NoteBook option
+2021-03-06 19:12:13,727 [main] INFO logger_File - User click on product comparison icon on 'Macbook'
+2021-03-06 19:12:16,409 [main] INFO logger_File - Product Comparison   failed
+2021-03-06 19:16:42,316 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-06 19:16:49,635 [main] INFO logger_File - Retail page is opened
+2021-03-06 19:16:49,660 [main] INFO logger_File - Page title  is verified
+2021-03-06 19:16:51,330 [main] INFO logger_File - Retail page is opened
+2021-03-06 19:16:51,345 [main] INFO logger_File - Page title  is verified
+2021-03-06 19:16:52,133 [main] INFO logger_File - User clicked on Laptop NoteBook tab
+2021-03-06 19:16:52,848 [main] INFO logger_File - ser clicked on Show all Laptop & NoteBook option
+2021-03-06 19:16:55,027 [main] INFO logger_File - User clicked on MacBook item
+2021-03-06 19:16:55,704 [main] INFO logger_File - User click add to Cart button
+2021-03-06 19:16:56,371 [main] INFO logger_File - User should see a message ‘Success: You have added MacBook to your shopping cart!’
+2021-03-06 19:16:56,487 [main] INFO logger_File - User should see ‘1 item(s)-602.00’ showed to the cart
+2021-03-06 19:16:57,096 [main] INFO logger_File - User click on cart option
+2021-03-06 19:16:57,251 [main] INFO logger_File - User click on red X button to remove the item from cart
+2021-03-06 19:16:58,146 [main] INFO logger_File - item should be removed and cart should show '0 item'
+2021-03-06 19:16:59,882 [main] INFO logger_File - Add and Remove a Mac book from Cart   passed
+2021-03-06 19:16:59,895 [main] INFO logger_File - Scenario Product Comparison Started 
+2021-03-06 19:17:04,605 [main] INFO logger_File - Retail page is opened
+2021-03-06 19:17:04,630 [main] INFO logger_File - Page title  is verified
+2021-03-06 19:17:06,302 [main] INFO logger_File - Retail page is opened
+2021-03-06 19:17:06,323 [main] INFO logger_File - Page title  is verified
+2021-03-06 19:17:07,036 [main] INFO logger_File - User clicked on Laptop NoteBook tab
+2021-03-06 19:17:07,561 [main] INFO logger_File - ser clicked on Show all Laptop & NoteBook option
+2021-03-06 19:17:07,792 [main] INFO logger_File - User click on product comparison icon on 'Macbook'
+2021-03-06 19:17:07,989 [main] INFO logger_File - User click on product comparison icon on 'Macbook Air'
+2021-03-06 19:17:08,637 [main] INFO logger_File - User should see a message 'Success: You have added MacBook Air to your product comparison!'
+2021-03-06 19:17:09,108 [main] INFO logger_File - User click on Product comparison link
+2021-03-06 19:17:09,764 [main] INFO logger_File - User should see Product Comparison Chart
+2021-03-06 19:17:11,170 [main] INFO logger_File - Product Comparison   passed
+2021-03-06 19:18:06,311 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-06 19:18:13,036 [main] INFO logger_File - Retail page is opened
+2021-03-06 19:18:13,119 [main] INFO logger_File - Page title  is verified
+2021-03-06 19:18:14,885 [main] INFO logger_File - Retail page is opened
+2021-03-06 19:18:14,902 [main] INFO logger_File - Page title  is verified
+2021-03-06 19:18:15,763 [main] INFO logger_File - User clicked on Laptop NoteBook tab
+2021-03-06 19:18:16,874 [main] INFO logger_File - ser clicked on Show all Laptop & NoteBook option
+2021-03-06 19:18:18,957 [main] INFO logger_File - User clicked on MacBook item
+2021-03-06 19:18:19,372 [main] INFO logger_File - User click add to Cart button
+2021-03-06 19:18:20,184 [main] INFO logger_File - User should see a message ‘Success: You have added MacBook to your shopping cart!’
+2021-03-06 19:18:20,307 [main] INFO logger_File - User should see ‘1 item(s)-602.00’ showed to the cart
+2021-03-06 19:18:20,860 [main] INFO logger_File - User click on cart option
+2021-03-06 19:18:21,125 [main] INFO logger_File - User click on red X button to remove the item from cart
+2021-03-06 19:18:21,999 [main] INFO logger_File - item should be removed and cart should show '0 item'
+2021-03-06 19:18:23,257 [main] INFO logger_File - Add and Remove a Mac book from Cart   passed
+2021-03-06 19:18:23,272 [main] INFO logger_File - Scenario Product Comparison Started 
+2021-03-06 19:18:27,807 [main] INFO logger_File - Retail page is opened
+2021-03-06 19:18:27,887 [main] INFO logger_File - Page title  is verified
+2021-03-06 19:18:29,787 [main] INFO logger_File - Retail page is opened
+2021-03-06 19:18:29,802 [main] INFO logger_File - Page title  is verified
+2021-03-06 19:18:30,601 [main] INFO logger_File - User clicked on Laptop NoteBook tab
+2021-03-06 19:18:31,346 [main] INFO logger_File - ser clicked on Show all Laptop & NoteBook option
+2021-03-06 19:18:31,658 [main] INFO logger_File - User click on product comparison icon on 'Macbook'
+2021-03-06 19:18:31,875 [main] INFO logger_File - User click on product comparison icon on 'Macbook Air'
+2021-03-06 19:18:33,486 [main] INFO logger_File - Product Comparison   failed
+2021-03-06 22:37:48,840 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-06 22:37:54,429 [main] INFO logger_File - Retail page is opened
+2021-03-06 22:37:54,447 [main] INFO logger_File - Page title  is verified
+2021-03-06 22:37:55,750 [main] INFO logger_File - Retail page is opened
+2021-03-06 22:37:55,761 [main] INFO logger_File - Page title  is verified
+2021-03-06 22:37:56,386 [main] INFO logger_File - User clicked on Laptop NoteBook tab
+2021-03-06 22:37:56,947 [main] INFO logger_File - ser clicked on Show all Laptop & NoteBook option
+2021-03-06 22:37:58,455 [main] INFO logger_File - User clicked on MacBook item
+2021-03-06 22:37:58,778 [main] INFO logger_File - User click add to Cart button
+2021-03-06 22:37:59,278 [main] INFO logger_File - User should see a message ‘Success: You have added MacBook to your shopping cart!’
+2021-03-06 22:37:59,319 [main] INFO logger_File - User should see ‘1 item(s)-602.00’ showed to the cart
+2021-03-06 22:37:59,680 [main] INFO logger_File - User click on cart option
+2021-03-06 22:37:59,840 [main] INFO logger_File - User click on red X button to remove the item from cart
+2021-03-06 22:38:00,563 [main] INFO logger_File - item should be removed and cart should show '0 item'
+2021-03-06 22:38:01,534 [main] INFO logger_File - Add and Remove a Mac book from Cart   passed
+2021-03-06 22:38:01,544 [main] INFO logger_File - Scenario Product Comparison Started 
+2021-03-06 22:38:05,365 [main] INFO logger_File - Retail page is opened
+2021-03-06 22:38:05,410 [main] INFO logger_File - Page title  is verified
+2021-03-06 22:38:06,518 [main] INFO logger_File - Retail page is opened
+2021-03-06 22:38:06,526 [main] INFO logger_File - Page title  is verified
+2021-03-06 22:38:07,072 [main] INFO logger_File - User clicked on Laptop NoteBook tab
+2021-03-06 22:38:07,607 [main] INFO logger_File - ser clicked on Show all Laptop & NoteBook option
+2021-03-06 22:38:08,318 [main] INFO logger_File - User click on product comparison icon on 'Macbook'
+2021-03-06 22:38:10,569 [main] INFO logger_File - Product Comparison   failed
+2021-03-06 22:39:40,035 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-06 22:39:45,492 [main] INFO logger_File - Retail page is opened
+2021-03-06 22:39:45,516 [main] INFO logger_File - Page title  is verified
+2021-03-06 22:39:46,924 [main] INFO logger_File - Retail page is opened
+2021-03-06 22:39:46,933 [main] INFO logger_File - Page title  is verified
+2021-03-06 22:39:47,794 [main] INFO logger_File - User clicked on Laptop NoteBook tab
+2021-03-06 22:39:48,347 [main] INFO logger_File - ser clicked on Show all Laptop & NoteBook option
+2021-03-06 22:39:50,311 [main] INFO logger_File - User clicked on MacBook item
+2021-03-06 22:39:50,691 [main] INFO logger_File - User click add to Cart button
+2021-03-06 22:39:51,425 [main] INFO logger_File - User should see a message ‘Success: You have added MacBook to your shopping cart!’
+2021-03-06 22:39:51,529 [main] INFO logger_File - User should see ‘1 item(s)-602.00’ showed to the cart
+2021-03-06 22:39:51,969 [main] INFO logger_File - User click on cart option
+2021-03-06 22:39:52,072 [main] INFO logger_File - User click on red X button to remove the item from cart
+2021-03-06 22:39:52,942 [main] INFO logger_File - item should be removed and cart should show '0 item'
+2021-03-06 22:39:54,144 [main] INFO logger_File - Add and Remove a Mac book from Cart   passed
+2021-03-06 22:39:54,150 [main] INFO logger_File - Scenario Product Comparison Started 
+2021-03-06 22:39:57,593 [main] INFO logger_File - Retail page is opened
+2021-03-06 22:39:57,623 [main] INFO logger_File - Page title  is verified
+2021-03-06 22:39:58,999 [main] INFO logger_File - Retail page is opened
+2021-03-06 22:39:59,010 [main] INFO logger_File - Page title  is verified
+2021-03-06 22:39:59,582 [main] INFO logger_File - User clicked on Laptop NoteBook tab
+2021-03-06 22:40:00,311 [main] INFO logger_File - ser clicked on Show all Laptop & NoteBook option
+2021-03-06 22:40:01,083 [main] INFO logger_File - User click on product comparison icon on 'Macbook'
+2021-03-06 22:40:03,075 [main] INFO logger_File - Product Comparison   failed
+2021-03-06 22:47:07,232 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-06 22:47:13,398 [main] INFO logger_File - Retail page is opened
+2021-03-06 22:47:13,456 [main] INFO logger_File - Page title  is verified
+2021-03-06 22:47:14,970 [main] INFO logger_File - Retail page is opened
+2021-03-06 22:47:14,980 [main] INFO logger_File - Page title  is verified
+2021-03-06 22:47:15,710 [main] INFO logger_File - User clicked on Laptop NoteBook tab
+2021-03-06 22:47:16,392 [main] INFO logger_File - ser clicked on Show all Laptop & NoteBook option
+2021-03-06 22:47:18,811 [main] INFO logger_File - User clicked on MacBook item
+2021-03-06 22:47:19,420 [main] INFO logger_File - User click add to Cart button
+2021-03-06 22:47:20,193 [main] INFO logger_File - User should see a message ‘Success: You have added MacBook to your shopping cart!’
+2021-03-06 22:47:20,259 [main] INFO logger_File - User should see ‘1 item(s)-602.00’ showed to the cart
+2021-03-06 22:47:20,594 [main] INFO logger_File - User click on cart option
+2021-03-06 22:47:20,918 [main] INFO logger_File - User click on red X button to remove the item from cart
+2021-03-06 22:47:21,851 [main] INFO logger_File - item should be removed and cart should show '0 item'
+2021-03-06 22:47:23,790 [main] INFO logger_File - Add and Remove a Mac book from Cart   passed
+2021-03-06 22:47:23,799 [main] INFO logger_File - Scenario Product Comparison Started 
+2021-03-06 22:47:28,633 [main] INFO logger_File - Retail page is opened
+2021-03-06 22:47:28,661 [main] INFO logger_File - Page title  is verified
+2021-03-06 22:47:30,210 [main] INFO logger_File - Retail page is opened
+2021-03-06 22:47:30,218 [main] INFO logger_File - Page title  is verified
+2021-03-06 22:47:31,011 [main] INFO logger_File - User clicked on Laptop NoteBook tab
+2021-03-06 22:47:31,776 [main] INFO logger_File - ser clicked on Show all Laptop & NoteBook option
+2021-03-06 22:47:32,696 [main] INFO logger_File - User click on product comparison icon on 'Macbook'
+2021-03-06 22:47:33,442 [main] INFO logger_File - User click on product comparison icon on 'Macbook Air'
+2021-03-06 22:47:34,038 [main] INFO logger_File - User should see a message 'Success: You have added MacBook Air to your product comparison!'
+2021-03-06 22:47:34,975 [main] INFO logger_File - User click on Product comparison link
+2021-03-06 22:47:35,546 [main] INFO logger_File - User should see Product Comparison Chart
+2021-03-06 22:47:37,694 [main] INFO logger_File - Product Comparison   passed
+2021-03-06 23:08:38,268 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-06 23:08:44,855 [main] INFO logger_File - Retail page is opened
+2021-03-06 23:08:44,890 [main] INFO logger_File - Page title  is verified
+2021-03-06 23:08:46,272 [main] INFO logger_File - Retail page is opened
+2021-03-06 23:08:46,281 [main] INFO logger_File - Page title  is verified
+2021-03-06 23:08:47,027 [main] INFO logger_File - User clicked on Laptop NoteBook tab
+2021-03-06 23:08:47,705 [main] INFO logger_File - ser clicked on Show all Laptop & NoteBook option
+2021-03-06 23:08:49,661 [main] INFO logger_File - User clicked on MacBook item
+2021-03-06 23:08:49,860 [main] INFO logger_File - User click add to Cart button
+2021-03-06 23:08:50,666 [main] INFO logger_File - User should see a message ‘Success: You have added MacBook to your shopping cart!’
+2021-03-06 23:08:50,869 [main] INFO logger_File - User should see ‘1 item(s)-602.00’ showed to the cart
+2021-03-06 23:08:51,351 [main] INFO logger_File - User click on cart option
+2021-03-06 23:08:51,630 [main] INFO logger_File - User click on red X button to remove the item from cart
+2021-03-06 23:08:52,485 [main] INFO logger_File - item should be removed and cart should show '0 item'
+2021-03-06 23:08:53,807 [main] INFO logger_File - Add and Remove a Mac book from Cart   passed
+2021-03-06 23:08:53,815 [main] INFO logger_File - Scenario Adding an item to Wish list Started 
+2021-03-06 23:08:58,860 [main] INFO logger_File - Retail page is opened
+2021-03-06 23:08:58,889 [main] INFO logger_File - Page title  is verified
+2021-03-06 23:09:00,180 [main] INFO logger_File - Retail page is opened
+2021-03-06 23:09:00,193 [main] INFO logger_File - Page title  is verified
+2021-03-06 23:09:00,918 [main] INFO logger_File - User clicked on Laptop NoteBook tab
+2021-03-06 23:09:01,614 [main] INFO logger_File - ser clicked on Show all Laptop & NoteBook option
+2021-03-06 23:09:01,801 [main] INFO logger_File - User click on heart icon to add 'Sony VaIO' laptop to wish list
+2021-03-06 23:09:02,720 [main] INFO logger_File - User should get a message 'You must login or create an account to save Sony VAIO to your wish list!'
+2021-03-06 23:09:04,022 [main] INFO logger_File - Adding an item to Wish list   passed
+2021-03-06 23:50:54,437 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-06 23:51:00,186 [main] INFO logger_File - Retail page is opened
+2021-03-06 23:51:00,206 [main] INFO logger_File - Page title  is verified
+2021-03-06 23:51:01,700 [main] INFO logger_File - Retail page is opened
+2021-03-06 23:51:01,709 [main] INFO logger_File - Page title  is verified
+2021-03-06 23:51:02,501 [main] INFO logger_File - User clicked on Laptop NoteBook tab
+2021-03-06 23:51:03,252 [main] INFO logger_File - ser clicked on Show all Laptop & NoteBook option
+2021-03-06 23:51:05,192 [main] INFO logger_File - User clicked on MacBook item
+2021-03-06 23:51:05,479 [main] INFO logger_File - User click add to Cart button
+2021-03-06 23:51:06,206 [main] INFO logger_File - User should see a message ‘Success: You have added MacBook to your shopping cart!’
+2021-03-06 23:51:06,278 [main] INFO logger_File - User should see ‘1 item(s)-602.00’ showed to the cart
+2021-03-06 23:51:06,653 [main] INFO logger_File - User click on cart option
+2021-03-06 23:51:06,831 [main] INFO logger_File - User click on red X button to remove the item from cart
+2021-03-06 23:51:07,567 [main] INFO logger_File - item should be removed and cart should show '0 item'
+2021-03-06 23:51:08,651 [main] INFO logger_File - Add and Remove a Mac book from Cart   passed
+2021-03-06 23:51:08,658 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-03-06 23:51:12,391 [main] INFO logger_File - Retail page is opened
+2021-03-06 23:51:12,418 [main] INFO logger_File - Page title  is verified
+2021-03-06 23:51:13,703 [main] INFO logger_File - Retail page is opened
+2021-03-06 23:51:13,712 [main] INFO logger_File - Page title  is verified
+2021-03-06 23:51:14,200 [main] INFO logger_File - User clicked on Laptop NoteBook tab
+2021-03-06 23:51:14,792 [main] INFO logger_File - ser clicked on Show all Laptop & NoteBook option
+2021-03-06 23:51:16,530 [main] INFO logger_File - User clicked on 'MacBook Pro' item
+2021-03-06 23:51:17,113 [main] INFO logger_File - User should see '$2,000.00' price tag is present on UI
+2021-03-06 23:51:18,126 [main] INFO logger_File - Validate the price of MacBook Pro is 2000   passed
+2021-03-07 00:18:18,792 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-03-07 00:18:24,008 [main] INFO logger_File - Retail page is opened
+2021-03-07 00:18:24,027 [main] INFO logger_File - Page title  is verified
+2021-03-07 00:18:25,421 [main] INFO logger_File - User click on My Account
+2021-03-07 00:18:26,243 [main] INFO logger_File - User clicked on Register option
+2021-03-07 00:18:27,912 [main] INFO logger_File - User filled the information form
+2021-03-07 00:18:28,557 [main] INFO logger_File - User check privacy and policy
+2021-03-07 00:18:29,665 [main] INFO logger_File - User clicked on Continue button
+2021-03-07 00:18:30,170 [main] INFO logger_File - Account was created Successfully
+2021-03-07 00:18:31,274 [main] INFO logger_File - Register an Account test case   passed
+2021-03-13 23:08:00,633 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-03-13 23:08:06,688 [main] INFO logger_File - Retail page is opened
+2021-03-13 23:08:06,710 [main] INFO logger_File - Page title  is verified
+2021-03-13 23:08:08,088 [main] INFO logger_File - User click on My Account
+2021-03-13 23:08:08,916 [main] INFO logger_File - User clicked on Register option
+2021-03-13 23:08:09,850 [main] INFO logger_File - User filled the information form
+2021-03-13 23:08:10,451 [main] INFO logger_File - User check privacy and policy
+2021-03-13 23:08:11,220 [main] INFO logger_File - User clicked on Continue button
+2021-03-13 23:08:19,527 [main] INFO logger_File - Scenario For this feature you have to have an existing account Started 
+2021-03-13 23:08:23,301 [main] INFO logger_File - Retail page is opened
+2021-03-13 23:08:23,329 [main] INFO logger_File - Page title  is verified
+2021-03-13 23:08:24,538 [main] INFO logger_File - Retail page is opened
+2021-03-13 23:08:24,544 [main] INFO logger_File - Page title  is verified
+2021-03-13 23:08:25,859 [main] INFO logger_File - For this feature you have to have an existing account   undefined
+2021-03-13 23:16:12,738 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-03-13 23:16:22,415 [main] INFO logger_File - Retail page is opened
+2021-03-13 23:16:22,437 [main] INFO logger_File - Page title  is verified
+2021-03-13 23:16:23,865 [main] INFO logger_File - User click on My Account
+2021-03-13 23:16:25,216 [main] INFO logger_File - User clicked on Register option
+2021-03-13 23:16:26,254 [main] INFO logger_File - User filled the information form
+2021-03-13 23:16:26,728 [main] INFO logger_File - User check privacy and policy
+2021-03-13 23:16:28,303 [main] INFO logger_File - User clicked on Continue button
+2021-03-13 23:16:28,713 [main] INFO logger_File - Account was created Successfully
+2021-03-13 23:16:29,536 [main] INFO logger_File - Register an Account test case   passed
+2021-03-13 23:16:29,544 [main] INFO logger_File - Scenario For this feature you have to have an existing account Started 
+2021-03-13 23:16:35,330 [main] INFO logger_File - Retail page is opened
+2021-03-13 23:16:35,354 [main] INFO logger_File - Page title  is verified
+2021-03-13 23:16:37,624 [main] INFO logger_File - Retail page is opened
+2021-03-13 23:16:37,633 [main] INFO logger_File - Page title  is verified
+2021-03-13 23:16:39,220 [main] INFO logger_File - For this feature you have to have an existing account   undefined
+2021-03-13 23:19:03,736 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-03-13 23:19:09,483 [main] INFO logger_File - Retail page is opened
+2021-03-13 23:19:09,503 [main] INFO logger_File - Page title  is verified
+2021-03-13 23:19:10,536 [main] INFO logger_File - User click on My Account
+2021-03-13 23:19:15,379 [main] INFO logger_File - Scenario For this feature you have to have an existing account Started 
+2021-03-13 23:19:19,568 [main] INFO logger_File - Retail page is opened
+2021-03-13 23:19:19,584 [main] INFO logger_File - Page title  is verified
+2021-03-13 23:19:21,050 [main] INFO logger_File - Retail page is opened
+2021-03-13 23:19:21,057 [main] INFO logger_File - Page title  is verified
+2021-03-13 23:19:22,284 [main] INFO logger_File - For this feature you have to have an existing account   undefined
+2021-03-13 23:20:28,342 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-03-13 23:20:54,512 [main] INFO logger_File - Retail page is opened
+2021-03-13 23:20:54,546 [main] INFO logger_File - Page title  is verified
+2021-03-13 23:20:56,391 [main] INFO logger_File - User click on My Account
+2021-03-13 23:20:58,945 [main] INFO logger_File - User clicked on Register option
+2021-03-13 23:21:00,445 [main] INFO logger_File - User filled the information form
+2021-03-13 23:21:01,145 [main] INFO logger_File - User check privacy and policy
+2021-03-13 23:21:02,926 [main] INFO logger_File - User clicked on Continue button
+2021-03-13 23:21:03,446 [main] INFO logger_File - Account was created Successfully
+2021-03-13 23:21:04,543 [main] INFO logger_File - Register an Account test case   passed
+2021-03-13 23:21:04,556 [main] INFO logger_File - Scenario For this feature you have to have an existing account Started 
+2021-03-13 23:21:09,783 [main] INFO logger_File - Retail page is opened
+2021-03-13 23:21:09,802 [main] INFO logger_File - Page title  is verified
+2021-03-13 23:21:11,529 [main] INFO logger_File - Retail page is opened
+2021-03-13 23:21:11,544 [main] INFO logger_File - Page title  is verified
+2021-03-13 23:21:13,574 [main] INFO logger_File - For this feature you have to have an existing account   undefined
+2021-03-13 23:28:24,808 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-03-13 23:28:32,192 [main] INFO logger_File - Retail page is opened
+2021-03-13 23:28:32,248 [main] INFO logger_File - Page title  is verified
+2021-03-13 23:28:33,718 [main] INFO logger_File - User click on My Account
+2021-03-13 23:28:34,912 [main] INFO logger_File - User clicked on Register option
+2021-03-13 23:28:36,890 [main] INFO logger_File - User filled the information form
+2021-03-13 23:28:37,669 [main] INFO logger_File - User check privacy and policy
+2021-03-13 23:28:38,904 [main] INFO logger_File - User clicked on Continue button
+2021-03-13 23:28:39,534 [main] INFO logger_File - Account was created Successfully
+2021-03-13 23:28:40,883 [main] INFO logger_File - Register an Account test case   passed
+2021-03-13 23:28:40,902 [main] INFO logger_File - Scenario For this feature you have to have an existing account Started 
+2021-03-13 23:28:46,067 [main] INFO logger_File - Retail page is opened
+2021-03-13 23:28:46,139 [main] INFO logger_File - Page title  is verified
+2021-03-13 23:28:47,883 [main] INFO logger_File - Retail page is opened
+2021-03-13 23:28:47,895 [main] INFO logger_File - Page title  is verified
+2021-03-13 23:28:48,465 [main] INFO logger_File - User clicked on MyAccount
+2021-03-13 23:28:49,056 [main] INFO logger_File - User clicked on Login
+2021-03-13 23:28:50,462 [main] INFO logger_File - For this feature you have to have an existing account   failed
+2021-03-13 23:32:54,745 [main] INFO logger_File - Scenario For this feature you have to have an existing account Started 
+2021-03-13 23:33:01,978 [main] INFO logger_File - Retail page is opened
+2021-03-13 23:33:02,003 [main] INFO logger_File - Page title  is verified
+2021-03-13 23:33:03,987 [main] INFO logger_File - Retail page is opened
+2021-03-13 23:33:04,004 [main] INFO logger_File - Page title  is verified
+2021-03-13 23:33:04,863 [main] INFO logger_File - User clicked on MyAccount
+2021-03-13 23:33:05,547 [main] INFO logger_File - User clicked on Login
+2021-03-13 23:33:06,724 [main] INFO logger_File - User entered username 'userName' and password 'password'
+2021-03-13 23:33:07,960 [main] INFO logger_File - User clicked on Login button
+2021-03-13 23:33:08,537 [main] INFO logger_File - User should be logged in to MyAccount dashboard
+2021-03-13 23:33:09,725 [main] INFO logger_File - For this feature you have to have an existing account   passed
+2021-03-13 23:43:20,697 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-03-13 23:43:26,890 [main] INFO logger_File - Retail page is opened
+2021-03-13 23:43:26,919 [main] INFO logger_File - Page title  is verified
+2021-03-13 23:43:28,438 [main] INFO logger_File - User click on My Account
+2021-03-13 23:43:29,435 [main] INFO logger_File - User clicked on Register option
+2021-03-13 23:43:31,022 [main] INFO logger_File - User filled the information form
+2021-03-13 23:43:31,661 [main] INFO logger_File - User check privacy and policy
+2021-03-13 23:43:33,124 [main] INFO logger_File - User clicked on Continue button
+2021-03-13 23:43:33,732 [main] INFO logger_File - Account was created Successfully
+2021-03-13 23:43:34,996 [main] INFO logger_File - Register an Account test case   passed
+2021-03-13 23:43:35,011 [main] INFO logger_File - Scenario For this feature you have to have an existing account Started 
+2021-03-13 23:43:39,596 [main] INFO logger_File - Retail page is opened
+2021-03-13 23:43:39,618 [main] INFO logger_File - Page title  is verified
+2021-03-13 23:43:52,891 [main] INFO logger_File - Retail page is opened
+2021-03-13 23:43:52,905 [main] INFO logger_File - Page title  is verified
+2021-03-13 23:43:53,675 [main] INFO logger_File - User clicked on MyAccount
+2021-03-13 23:43:54,845 [main] INFO logger_File - User clicked on Login
+2021-03-13 23:43:55,351 [main] INFO logger_File - User entered username 'userName' and password 'password'
+2021-03-13 23:44:11,216 [main] INFO logger_File - User clicked on Login button
+2021-03-13 23:44:11,728 [main] INFO logger_File - User should be logged in to MyAccount dashboard
+2021-03-13 23:44:12,677 [main] INFO logger_File - For this feature you have to have an existing account   passed
+2021-03-14 00:42:19,082 [main] INFO logger_File - Scenario For this feature you have to have an existing account Started 
+2021-03-14 00:42:25,728 [main] INFO logger_File - Retail page is opened
+2021-03-14 00:42:25,758 [main] INFO logger_File - Page title  is verified
+2021-03-14 00:42:28,023 [main] INFO logger_File - Retail page is opened
+2021-03-14 00:42:28,041 [main] INFO logger_File - Page title  is verified
+2021-03-14 00:42:28,947 [main] INFO logger_File - User clicked on MyAccount
+2021-03-14 00:42:29,866 [main] INFO logger_File - User clicked on Login
+2021-03-14 00:42:30,801 [main] INFO logger_File - User entered username 'userName' and password 'password'
+2021-03-14 00:42:32,569 [main] INFO logger_File - User clicked on Login button
+2021-03-14 00:42:33,115 [main] INFO logger_File - User should be logged in to MyAccount dashboard
+2021-03-14 00:42:34,619 [main] INFO logger_File - For this feature you have to have an existing account   passed
+2021-03-14 00:42:34,654 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-14 00:42:42,441 [main] INFO logger_File - Retail page is opened
+2021-03-14 00:42:42,455 [main] INFO logger_File - Page title  is verified
+2021-03-14 00:42:44,432 [main] INFO logger_File - Retail page is opened
+2021-03-14 00:42:44,445 [main] INFO logger_File - Page title  is verified
+2021-03-14 00:42:45,125 [main] INFO logger_File - User clicked on MyAccount
+2021-03-14 00:42:46,194 [main] INFO logger_File - User clicked on Login
+2021-03-14 00:42:46,783 [main] INFO logger_File - User entered username 'userName' and password 'password'
+2021-03-14 00:42:48,829 [main] INFO logger_File - User clicked on Login button
+2021-03-14 00:42:50,383 [main] INFO logger_File - User clicked on 'Register for an Affiliate Account' link
+2021-03-14 00:42:51,416 [main] INFO logger_File - User fill affiliate form with above information
+2021-03-14 00:42:52,035 [main] INFO logger_File - User check on About us check box 
+2021-03-14 00:42:54,358 [main] INFO logger_File - User clicked on Continue button
+2021-03-14 00:42:54,901 [main] INFO logger_File - User should see a success message
+2021-03-14 00:42:56,044 [main] INFO logger_File - Register as an Affiliate user with Cheque Payment Method   passed
+2021-03-14 01:25:20,560 [main] INFO logger_File - Scenario For this feature you have to have an existing account Started 
+2021-03-14 01:25:32,261 [main] INFO logger_File - Retail page is opened
+2021-03-14 01:25:32,299 [main] INFO logger_File - Page title  is verified
+2021-03-14 01:25:38,997 [main] INFO logger_File - Retail page is opened
+2021-03-14 01:25:39,015 [main] INFO logger_File - Page title  is verified
+2021-03-14 01:25:39,786 [main] INFO logger_File - User clicked on MyAccount
+2021-03-14 01:25:41,856 [main] INFO logger_File - User clicked on Login
+2021-03-14 01:25:42,613 [main] INFO logger_File - User entered username 'userName' and password 'password'
+2021-03-14 01:25:47,155 [main] INFO logger_File - User clicked on Login button
+2021-03-14 01:25:47,705 [main] INFO logger_File - User should be logged in to MyAccount dashboard
+2021-03-14 01:25:49,391 [main] INFO logger_File - For this feature you have to have an existing account   passed
+2021-03-14 01:25:49,403 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-14 01:25:56,324 [main] INFO logger_File - Retail page is opened
+2021-03-14 01:25:56,338 [main] INFO logger_File - Page title  is verified
+2021-03-14 01:25:59,152 [main] INFO logger_File - Retail page is opened
+2021-03-14 01:25:59,167 [main] INFO logger_File - Page title  is verified
+2021-03-14 01:25:59,875 [main] INFO logger_File - User clicked on MyAccount
+2021-03-14 01:26:02,493 [main] INFO logger_File - User clicked on Login
+2021-03-14 01:26:03,192 [main] INFO logger_File - User entered username 'userName' and password 'password'
+2021-03-14 01:26:08,546 [main] INFO logger_File - User clicked on Login button
+2021-03-14 01:26:10,026 [main] INFO logger_File - User clicked on 'Edit your affiliate informationlink'
+2021-03-14 01:26:10,206 [main] INFO logger_File - user clicked on Bank Transfer radio button
+2021-03-14 01:27:00,117 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   failed
+2021-03-14 01:33:09,967 [main] INFO logger_File - Scenario For this feature you have to have an existing account Started 
+2021-03-14 01:33:16,838 [main] INFO logger_File - Retail page is opened
+2021-03-14 01:33:16,859 [main] INFO logger_File - Page title  is verified
+2021-03-14 01:33:18,489 [main] INFO logger_File - Retail page is opened
+2021-03-14 01:33:18,505 [main] INFO logger_File - Page title  is verified
+2021-03-14 01:33:19,367 [main] INFO logger_File - User clicked on MyAccount
+2021-03-14 01:33:20,382 [main] INFO logger_File - User clicked on Login
+2021-03-14 01:33:21,221 [main] INFO logger_File - User entered username 'userName' and password 'password'
+2021-03-14 01:33:22,652 [main] INFO logger_File - User clicked on Login button
+2021-03-14 01:33:23,300 [main] INFO logger_File - User should be logged in to MyAccount dashboard
+2021-03-14 01:33:24,686 [main] INFO logger_File - For this feature you have to have an existing account   passed
+2021-03-14 01:33:24,698 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-14 01:33:30,199 [main] INFO logger_File - Retail page is opened
+2021-03-14 01:33:30,218 [main] INFO logger_File - Page title  is verified
+2021-03-14 01:33:32,158 [main] INFO logger_File - Retail page is opened
+2021-03-14 01:33:32,175 [main] INFO logger_File - Page title  is verified
+2021-03-14 01:33:32,923 [main] INFO logger_File - User clicked on MyAccount
+2021-03-14 01:33:33,711 [main] INFO logger_File - User clicked on Login
+2021-03-14 01:33:34,537 [main] INFO logger_File - User entered username 'userName' and password 'password'
+2021-03-14 01:33:35,889 [main] INFO logger_File - User clicked on Login button
+2021-03-14 01:33:36,460 [main] INFO logger_File - User clicked on 'Edit your affiliate informationlink'
+2021-03-14 01:33:36,605 [main] INFO logger_File - user clicked on Bank Transfer radio button
+2021-03-14 01:33:37,882 [main] INFO logger_File - User filled Bank information with above information
+2021-03-14 01:33:38,927 [main] INFO logger_File - User clicked on Continue button
+2021-03-14 01:33:39,438 [main] INFO logger_File - User should see a success message
+2021-03-14 01:33:40,606 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   passed
+2021-03-14 10:02:55,861 [main] INFO logger_File - Scenario For this feature you have to have an existing account Started 
+2021-03-14 10:03:05,464 [main] INFO logger_File - Retail page is opened
+2021-03-14 10:03:05,481 [main] INFO logger_File - Page title  is verified
+2021-03-14 10:03:11,087 [main] INFO logger_File - Retail page is opened
+2021-03-14 10:03:11,098 [main] INFO logger_File - Page title  is verified
+2021-03-14 10:03:11,618 [main] INFO logger_File - User clicked on MyAccount
+2021-03-14 10:03:12,461 [main] INFO logger_File - User clicked on Login
+2021-03-14 10:03:12,944 [main] INFO logger_File - User entered username 'userName' and password 'password'
+2021-03-14 10:03:20,109 [main] INFO logger_File - User clicked on Login button
+2021-03-14 10:03:20,537 [main] INFO logger_File - User should be logged in to MyAccount dashboard
+2021-03-14 10:03:21,438 [main] INFO logger_File - For this feature you have to have an existing account   passed
+2021-03-14 10:03:21,444 [main] INFO logger_File - Scenario Edit your account Information Started 
+2021-03-14 10:03:25,359 [main] INFO logger_File - Retail page is opened
+2021-03-14 10:03:25,373 [main] INFO logger_File - Page title  is verified
+2021-03-14 10:04:12,421 [main] INFO logger_File - Edit your account Information   failed
+2021-03-14 10:06:11,273 [main] INFO logger_File - Scenario For this feature you have to have an existing account Started 
+2021-03-14 10:06:16,727 [main] INFO logger_File - Retail page is opened
+2021-03-14 10:06:16,751 [main] INFO logger_File - Page title  is verified
+2021-03-14 10:06:18,117 [main] INFO logger_File - Retail page is opened
+2021-03-14 10:06:18,126 [main] INFO logger_File - Page title  is verified
+2021-03-14 10:06:18,748 [main] INFO logger_File - User clicked on MyAccount
+2021-03-14 10:06:19,147 [main] INFO logger_File - User clicked on Login
+2021-03-14 10:06:19,562 [main] INFO logger_File - User entered username 'userName' and password 'password'
+2021-03-14 10:06:20,688 [main] INFO logger_File - User clicked on Login button
+2021-03-14 10:06:21,221 [main] INFO logger_File - User should be logged in to MyAccount dashboard
+2021-03-14 10:06:22,768 [main] INFO logger_File - For this feature you have to have an existing account   passed
+2021-03-14 10:06:22,778 [main] INFO logger_File - Scenario Edit your account Information Started 
+2021-03-14 10:06:26,401 [main] INFO logger_File - Retail page is opened
+2021-03-14 10:06:26,426 [main] INFO logger_File - Page title  is verified
+2021-03-14 10:06:27,848 [main] INFO logger_File - Retail page is opened
+2021-03-14 10:06:27,856 [main] INFO logger_File - Page title  is verified
+2021-03-14 10:06:28,368 [main] INFO logger_File - User clicked on MyAccount
+2021-03-14 10:06:28,709 [main] INFO logger_File - User clicked on Login
+2021-03-14 10:06:29,070 [main] INFO logger_File - User entered username 'userName' and password 'password'
+2021-03-14 10:06:30,093 [main] INFO logger_File - User clicked on Login button
+2021-03-14 10:06:30,798 [main] INFO logger_File - User clicked on 'Edit your account information' link
+2021-03-14 10:06:31,226 [main] INFO logger_File - User modified the information
+2021-03-14 10:06:31,735 [main] INFO logger_File - User clicked on Continue button
+2021-03-14 10:07:17,566 [main] INFO logger_File - Edit your account Information   failed
+2021-03-14 10:18:57,053 [main] INFO logger_File - Scenario For this feature you have to have an existing account Started 
+2021-03-14 10:19:02,475 [main] INFO logger_File - Retail page is opened
+2021-03-14 10:19:02,489 [main] INFO logger_File - Page title  is verified
+2021-03-14 10:19:03,897 [main] INFO logger_File - Retail page is opened
+2021-03-14 10:19:03,907 [main] INFO logger_File - Page title  is verified
+2021-03-14 10:19:04,543 [main] INFO logger_File - User clicked on MyAccount
+2021-03-14 10:19:04,892 [main] INFO logger_File - User clicked on Login
+2021-03-14 10:19:05,587 [main] INFO logger_File - User entered username 'userName' and password 'password'
+2021-03-14 10:19:06,576 [main] INFO logger_File - User clicked on Login button
+2021-03-14 10:19:07,020 [main] INFO logger_File - User should be logged in to MyAccount dashboard
+2021-03-14 10:19:07,973 [main] INFO logger_File - For this feature you have to have an existing account   passed
+2021-03-14 10:19:07,980 [main] INFO logger_File - Scenario Edit your account Information Started 
+2021-03-14 10:19:11,824 [main] INFO logger_File - Retail page is opened
+2021-03-14 10:19:11,837 [main] INFO logger_File - Page title  is verified
+2021-03-14 10:19:13,239 [main] INFO logger_File - Retail page is opened
+2021-03-14 10:19:13,245 [main] INFO logger_File - Page title  is verified
+2021-03-14 10:19:13,774 [main] INFO logger_File - User clicked on MyAccount
+2021-03-14 10:19:14,138 [main] INFO logger_File - User clicked on Login
+2021-03-14 10:19:14,494 [main] INFO logger_File - User entered username 'userName' and password 'password'
+2021-03-14 10:19:15,529 [main] INFO logger_File - User clicked on Login button
+2021-03-14 10:19:16,251 [main] INFO logger_File - User clicked on 'Edit your account information' link
+2021-03-14 10:19:17,009 [main] INFO logger_File - User modified the information
+2021-03-14 10:19:17,865 [main] INFO logger_File - User clicked on Continue button
+2021-03-14 10:19:18,357 [main] INFO logger_File - User should see an account success message
+2021-03-14 10:19:19,765 [main] INFO logger_File - Edit your account Information   passed
